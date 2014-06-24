@@ -8,31 +8,31 @@
                 "url" : "<%= url %>"
             },
             "package_json" : {
-                "template": "heinzelmannchen-tpl-node-module/generator/package.json.tpl",
+                "template": "heinzelmannchen-tpl-node-module/package.json.tpl",
                 "output": "./package.json"
             },
             "readme" : {
-                "template": "heinzelmannchen-tpl-node-module/generator/README.md.tpl",
+                "template": "heinzelmannchen-tpl-node-module/README.md.tpl",
                 "output": "./README.md"
             },
             "index" : {
-                "template": "heinzelmannchen-tpl-node-module/generator/index.js.tpl",
+                "template": "heinzelmannchen-tpl-node-module/index.js.tpl",
                 "output": "./index.js"
             },
             "test" : {
-                "template": "heinzelmannchen-tpl-node-module/generator/test.js.tpl",
+                "template": "heinzelmannchen-tpl-node-module/test.js.tpl",
                 "output": "./test.js"
             },
             "gitignore" : {
-                "template": "heinzelmannchen-tpl-node-module/generator/gitignore.tpl",
+                "template": "heinzelmannchen-tpl-node-module/gitignore.tpl",
                 "output": "./.gitignore"
             },
             "jshintrc" : {
-                "template": "heinzelmannchen-tpl-node-module/generator/jshintrc.tpl",
+                "template": "heinzelmannchen-tpl-node-module/jshintrc.tpl",
                 "output": "./.jshintrc"
             },
             "editorconfig" : {
-                "template": "heinzelmannchen-tpl-node-module/generator/editorconfig.tpl",
+                "template": "heinzelmannchen-tpl-node-module/editorconfig.tpl",
                 "output": "./.editorconfig"
             }
         }
