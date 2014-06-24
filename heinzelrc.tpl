@@ -23,6 +23,10 @@
                 "template": "heinzelmannchen-tpl-node-module/test.js.tpl",
                 "output": "./test.js"
             },
+            "cli" : {
+                "template": "heinzelmannchen-tpl-node-module/cli.js.tpl",
+                "output": "./cli.js"
+            },
             "gitignore" : {
                 "template": "heinzelmannchen-tpl-node-module/gitignore.tpl",
                 "output": "./.gitignore"

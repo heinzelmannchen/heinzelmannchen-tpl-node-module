@@ -21,7 +21,7 @@
   "bugs": {
     "url": "<%= url %>/<%= _(moduleName).dasherize() %>/issues"
   },
-  "homepage": "<%= url %>/<%= _(moduleName).dasherize() %>"
+  "homepage": "<%= url %>/<%= _(moduleName).dasherize() %>",
   "devDependencies": {
     "mocha": "~1.20.1"
   },
