@@ -1,5 +1,5 @@
 <%= _(moduleName).dasherize() %>
-<%= _.repeat(moduleName, moduleName.length) %>
+<%= _.repeat('=', moduleName.length) %>
 
 > <%= description %>
 
@@ -14,12 +14,12 @@ Usage
 ```js
   var <%= _(moduleName).camelize() %> = require('<%= _(moduleName).dasherize() %>');
 
-  <%= _(moduleName).camelize() %>(); // => 
+  <%= _(moduleName).camelize() %>(); // =>
 ```
 
 CLI
 ---
 
 ```bash
-  $ <%= _(moduleName).dasherize() %> 
+  $ <%= _(moduleName).dasherize() %>
 ```

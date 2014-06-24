@@ -1,6 +1,6 @@
 {
   "name": "heinzelmannchen-tpl-node-module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "template for a node module",
   "main": "heinzelrc.tpl",
   "scripts": {
