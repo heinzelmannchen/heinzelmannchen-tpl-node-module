@@ -1,0 +1,24 @@
+{
+  "name": "heinzelmannchen-tpl-node-module",
+  "version": "1.0.0",
+  "description": "template for a node module",
+  "main": "heinzelrc.tpl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heinzelmannchen/heinzelmannchen-tpl-node-module"
+  },
+  "keywords": [
+    "heinzelmannchen",
+    "heinzelrc",
+    "default"
+  ],
+  "author": "Christoph Hermann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heinzelmannchen/heinzelmannchen-tpl-node-module/issues"
+  },
+  "homepage": "https://github.com/heinzelmannchen/heinzelmannchen-tpl-node-module"
+}
