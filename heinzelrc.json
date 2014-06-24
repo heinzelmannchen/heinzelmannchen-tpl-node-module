@@ -1,0 +1,19 @@
+{
+    "ask": [{
+        "type": "input",
+        "name": "moduleName",
+        "message": "Enter the name of your module"
+    }, {
+        "type": "input",
+        "name": "description",
+        "message": "Enter the description of your module"
+    }, {
+        "type": "input",
+        "name": "author",
+        "message": "Author"
+    }, {
+        "type": "input",
+        "name": "url",
+        "message": "url"
+    }]
+}
